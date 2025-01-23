@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="data:,">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detection Result</title>
+    
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Detection Result</h1>
+        <div class="image-container">
+            <h2>Uploaded Image:</h2>
+            <img src="/uploads/{{ input_image }}" alt="Uploaded Image">
+        </div>
+        <div class="image-container">
+            <h2>Detected Image:</h2>
+            <img src="/detections/{{ output_image }}" alt="Detected Image">
+        </div>
+        <a href="/">Upload Another Image</a>
+    </div>
+</body>
+</html>
