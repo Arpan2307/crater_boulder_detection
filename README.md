@@ -13,7 +13,7 @@ The dataset used for training the detection model is publicly available from the
   - `train`: ~300 labelled images for training.
   - `val`: ~100 labelled images for validation.
   - `moon.yaml`: Metadata file with paths for the dataset, number of classes (2: boulder and crater), and class names.
-- **detections**: ~20 images showing craters and boulders detected by the trained model.
+- **detections**: displays images with craters and boulders detected by the trained model.
 - **runs/detect**: Model performance results, including:
   - F1 Score Curve
   - Precision-Recall Curve
