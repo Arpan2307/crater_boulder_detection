@@ -1,7 +1,7 @@
 # AI/ML Model for Crater and Boulder Detection in OHRC Data
 
 ## Overview
-This project develops an AI/ML model to detect craters and boulders in Optical High-Resolution Camera (OHRC) data from the ISRO Chandrayaan mission. The model can identify craters and boulders of varying shapes and sizes, providing details such as their locations (latitude/longitude) and boundaries. 
+This project develops an AI/ML model based on YOLOv8 to detect craters and boulders in Optical High-Resolution Camera (OHRC) data from the ISRO Chandrayaan mission. The model can identify craters and boulders of varying shapes and sizes, providing details such as their locations (latitude/longitude) and boundaries. 
 A Flask-based web application has been developed to allow users to upload OHRC images and perform real-time crater and boulder detection using the trained model.
 
 ## Dataset
