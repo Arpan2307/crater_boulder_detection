@@ -25,12 +25,10 @@ The dataset used for training the detection model is publicly available from the
 - **requirements.txt**: List of required libraries and dependencies.
 - **Image_splitter.ipynb**: Jupyter notebook used to split large images into smaller patches for model training.
 
-![Image 1 Alt Text](moon1.jpg)
-![Image 2 Alt Text](moon2.png.jpeg)
-![Image 3 Alt Text](moon3.png.jpeg)
-
-<img src="moon1.jpg" width="400"/>
-<img src="moon2.png.jpeg" width="400"/>
+ ## Project Flow 
+<img src="moon1.jpg" width="500"/>
+<img src="moon2.png.jpeg" width="500"/>
+<img src="moon3.png.jpeg" width="500"/>
 
 
 
