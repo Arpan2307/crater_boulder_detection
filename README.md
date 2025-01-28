@@ -7,7 +7,7 @@ A Flask-based web application has been developed to allow users to upload OHRC i
 ## Dataset
 The dataset used for training the detection model is publicly available from the ISRO Chandrayaan mission through the PDS4 format on the ISRO Map Browse portal. It consists of high-resolution images of the lunar surface.
 
-### Important Folders and Files 
+## Important Folders and Files 
 - **Batch_1_ISRO_Dataset_Labelled**: Contains labelled images of the moon, done using LabelImg tool.
 - **Dataset2**:
   - `train`: ~300 labelled images for training.
