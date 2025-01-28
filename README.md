@@ -26,10 +26,16 @@ The dataset used for training the detection model is publicly available from the
 - **Image_splitter.ipynb**: Jupyter notebook used to split large images into smaller patches for model training.
 
  ## Project Flow 
-<img src="moon1.jpg" width="500" align="center" />
-<img src="moon2.png.jpeg" width="500" align="middle" />
-<img src="moon3.png.jpeg" width="500" align="middle"/>
+<p align="center">
+  <img src="moon1.jpg" width="300" />
+</p>
 
+<p align="center">
+  <img src="moon2.png.jpeg" alt="Image 2" width="300" />
+</p>
 
+<p align="center">
+  <img src="moon3.png.jpeg" alt="Image 3" width="300" />
+</p>
 
 
