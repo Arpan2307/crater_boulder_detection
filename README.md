@@ -27,15 +27,15 @@ The dataset used for training the detection model is publicly available from the
 
  ## Project Flow 
 <p align="center">
-  <img src="moon1.jpg" width="300" />
+  <img src="moon1.jpg" width="500" />
 </p>
 
 <p align="center">
-  <img src="moon2.png.jpeg" alt="Image 2" width="300" />
+  <img src="moon2.png.jpeg" alt="Image 2" width="500" />
 </p>
 
 <p align="center">
-  <img src="moon3.png.jpeg" alt="Image 3" width="300" />
+  <img src="moon3.png.jpeg" alt="Image 3" width="500" />
 </p>
 
 
