@@ -1,0 +1,7 @@
+path: dataset2 # dataset root directory
+
+train: train  # train images (relative to 'path')
+val: val  # val images (relative to 'path')
+
+nc: 2  # number of classes
+names: ['crater', 'boulder']  # class names
